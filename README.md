@@ -2,14 +2,6 @@ Oregon Trail (Python Edition)
 
 A text-based Python implementation of the classic Oregon Trail game! Guide your traveler from NYC to Oregon (2,000 miles) before winter sets in. Balance your resources, endure random events, manage your health, and survive the arduous journey.
 
-Author: Yudong Lin
-
-Version: 1.3.1
-
-Contact / Bug Reports: yoshino1347716570@gmail.com
-
-Repository: GitHub - yoshino-lin/Oregon-Trail
-
 🎮 Game Features
 
 Multiple Difficulty Modes: Choose from easy, normal, hard, impossible, or customize your starting food and health to your liking.
